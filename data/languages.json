@@ -1,0 +1,33 @@
+{
+  "title": "Languages",
+  "children": [
+    {
+      "name": "Tajik",
+      "level": "Native"
+    },
+    {
+      "name": "Persian",
+      "level": "C2"
+    },
+    {
+      "name": "Turkish",
+      "level": "C1"
+    },
+    {
+      "name": "English",
+      "level": "C1"
+    },
+    {
+      "name": "Russian",
+      "level": "B1"
+    },
+    {
+      "name": "Arabic",
+      "level": "A2"
+    },
+    {
+      "name": "French",
+      "level": "A1"
+    }
+  ]
+}
